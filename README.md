@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/prasadneroolkars-projects](https://vercel.com/prasadneroolkars-projects)
+- 👨‍💻 All of my projects are available at [https://vercel.com/prasadneroolkars-projects](https://vercel.com/prasadneroolkars-projects) & (https://github.com/prasadneroolkar)
 
 - 📫 How to reach me **prasadneroolkar90@gmail.com**
 
